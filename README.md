@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @candycemetery (a.k.a. puuchipaa)
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, html, css.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: orange/mango
