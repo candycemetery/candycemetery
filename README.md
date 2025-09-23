@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @candycemetery (a.k.a. puuchipaa)
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python and C#
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: orange/mango
