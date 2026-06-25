@@ -1,4 +1,4 @@
-<img src = "[https://i.pinimg.com/originals/8c/46/38/8c46383f9c32788235e93c40b8676a50.gif](https://i.pinimg.com/originals/31/a7/2a/31a72afda250825d993400c3ef28c55c.gif)" width = "200"/>
+<img src = "https://i.pinimg.com/originals/31/a7/2a/31a72afda250825d993400c3ef28c55c.gif" width = "200"/>
 
 - 👋 Hi, I’m @candycemetery (a.k.a. puuchipaa)
 - 👀 I’m interested in programming
