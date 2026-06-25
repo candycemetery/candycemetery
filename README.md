@@ -2,10 +2,9 @@
 
 - 👋 Hi, I’m @candycemetery (a.k.a. puuchipaa)
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python, html/css.
+- 🌱 I’m currently learning python, html/css(as backend - php).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 🌟 Pronouns: thew/them
 - ⚡ Fun fact: i forgot
 <!---
 candycemetery/candycemetery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
