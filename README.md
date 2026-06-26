@@ -1,3 +1,4 @@
+<style>body {font-family:'Courier New', Courier, monospace;}</style>
 <img src = "https://i.pinimg.com/originals/31/a7/2a/31a72afda250825d993400c3ef28c55c.gif" width = "200"/>
 
 - 👋 Hi, I’m @candycemetery (a.k.a. puuchipaa)
